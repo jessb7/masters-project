@@ -6,7 +6,7 @@ This repository includes the writing and code from my Master's project at the Un
 
 ## Contents
 
-* [MSc_Project.pdf](MSc_Project.pdf)
+* [MSc_Project.pdf](MSc_Project.pdf) Final project write up.
 * [2parYS.R](/2parYS.R) A simulation study on the extension to a two-parameter Yule-Simon distribution using a random walk Metropolis Hastings and Gibbs sampler to sample from the posterior distribution.
 * [countregression.R](countregression.R) An application to the count regression setting using data on the number of national park visits for an individual in a year.
 * [datacode.R](datacode.R) Code to simulate data from the Yule-Simon distribution.
